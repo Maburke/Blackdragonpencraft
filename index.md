@@ -3,4 +3,4 @@ title: Blackdragonpencraft
 layout: gallery
 ---
 
-![]('./Bdpc_images/img1.png')
+![](https://github.com/Maburke/Blackdragonpencraft/edit/master/Bdpc_images/Bdpc_images/img1.png)
