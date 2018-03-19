@@ -3,7 +3,7 @@ title: Blackdragonpencraft
 ---
 
 # Comics
-- [First Comic](https://github.com/Maburke/Blackdragonpencraft/blob/master/Comic1.md)
+- [First Comic](https://maburke.github.io/Blackdragonpencraft/Comic1)
 - [Second Comic]
 - [Third Comic]
 
