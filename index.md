@@ -1,6 +1,13 @@
 ---
 title: Blackdragonpencraft
 ---
+
+# Comics
+- [First Comic](https://github.com/Maburke/Blackdragonpencraft/blob/master/Comic1.md)
+- [Second Comic]
+- [Third Comic]
+
+
 ## Frozen puncture
 ![](https://github.com/Maburke/Blackdragonpencraft/blob/master/Bdpc_images/img1.jpg?raw=true)
 
