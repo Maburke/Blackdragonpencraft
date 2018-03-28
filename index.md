@@ -4,8 +4,7 @@ title: Blackdragonpencraft
 
 # Comics
 - [First Comic](https://maburke.github.io/Blackdragonpencraft/Comic1)
-- [Second Comic]
-- [Third Comic]
+
 
 # Gallery
 
